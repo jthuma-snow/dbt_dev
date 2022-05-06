@@ -1,0 +1,9 @@
+# point_of_contact: the owner of this repository, can be a GitHub user or GitHub team
+point_of_contact: jthuma-snow
+
+# production: whether this repository meets the criteria for being "production", see
+# go/production-repository-criteria for criteria
+#
+# If this is not a production repository, set this field to false and delete
+# the rest of the fields below.
+production: false
